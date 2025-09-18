@@ -1,8 +1,5 @@
 # Steam Manifests - Central Repository
 
-📦 Coleção organizada de manifestos Steam para facilitar o uso de ferramentas como **SteamTools**.  
-Permite gerenciar jogos e conteúdos que não foram baixados diretamente pelo Steam.
-
 ---
 
 ## 📥 Downloads & Tutorial
